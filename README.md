@@ -15,3 +15,6 @@ O processo de análise da IA envolve várias etapas para extrair insights e poss
 ## Possibilidades Exploradas
 - Compreensão aprimorada das estruturas e semânticas das sentenças.
 - Aplicações potenciais em tarefas de processamento de linguagem natural, como análise de sentimentos, sumarização e classificação.
+
+## PRINT
+![analise das setenças ](prints/analise.png)
